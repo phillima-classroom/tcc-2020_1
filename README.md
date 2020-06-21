@@ -2,5 +2,8 @@
 Trabalho de Conclusão de Curso apresentado como requisito para obtenção do titulo de Bacharel em Engenharia da Computação - INATEL 2020/1
 
 Autores:
-  Guilherme Acácio, João Ferreira Neto, Lucas Teixeira de Almeida, Saulo Moreira 
+  Guilherme Acácio, João Ferreira Neto, Lucas Teixeira de Almeida e Saulo Moreira 
+  
+Orientador:
+  Prof. Phyllipe Lima
 
